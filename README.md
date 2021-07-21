@@ -1,5 +1,6 @@
-# Binance Automated Trading Robot  <h1>
+# Binance Automated Trading Robot 
 <a href="https://ibb.co/hyGHbbY"><img src="https://i.ibb.co/CzjvggP/3355.jpg" alt="3355" border="0"></a>
+<h1>
 # Technologies used  <h1>
 <a href="https://ibb.co/jZpk8sd"><img src="https://i.ibb.co/Qj5vJtZ/photo-2021-07-19-00-06-34.jpg" alt="photo-2021-07-19-00-06-34" border="0"></a>  
 # Reason and dream of making  <h1>  
