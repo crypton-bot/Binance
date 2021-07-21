@@ -9,7 +9,7 @@
 
 # Support and builder countries  <h1>    
 <a href="https://ibb.co/qdjYFJC"><img src="https://i.ibb.co/drM4Jmt/photo-2021-07-20-01-44-05.jpg" alt="photo-2021-07-20-01-44-05" border="0"></a>
-  
-
+# Some technical explanations  <h1>    
+Some technical explanations
 <a href="https://ibb.co/d7NbDDX"><img src="https://i.ibb.co/GFZsRRG/2210.jpg" alt="2210" border="0"></a>
 ###### *** 'Iran' Advanced Technologies Development Team *** <h6>
