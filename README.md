@@ -23,14 +23,7 @@
 # Some technical explanations 
    <a href="https://ibb.co/d7NbDDX"><img src="https://i.ibb.co/GFZsRRG/2210.jpg" alt="2210" border="0"></a>             
         <h1>  
-          
-          
-   <picture>
-  <source media="(min-width: 650px)" srcset="https://i.ibb.co/TBsgMZn/free-chat-support-icon-1721-thumb-1.png">
-  <source media="(min-width: 465px)" srcset="https://i.ibb.co/TBsgMZn/free-chat-support-icon-1721-thumb-1.png">
-  <img src="https://i.ibb.co/TBsgMZn/free-chat-support-icon-1721-thumb-1.png">
-</picture>       
-          
+        
  <a href="https://ibb.co/5KH6y4t"><img src="https://i.ibb.co/hYzyj9h/Untitled-3.jpg" alt="Untitled-3" border="0"></a>         
 
 <a href="https://ibb.co/Krh6NpX"><img src="https://i.ibb.co/fxFM8z2/3554.jpg" alt="3554" border="0"></a>
