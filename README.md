@@ -28,7 +28,7 @@
    <picture>
   <source media="(min-width: 650px)" srcset="https://i.ibb.co/TBsgMZn/free-chat-support-icon-1721-thumb-1.png">
   <source media="(min-width: 465px)" srcset="https://i.ibb.co/TBsgMZn/free-chat-support-icon-1721-thumb-1.png">
-  <img src="img_girl.jpg">
+  <img src="https://i.ibb.co/TBsgMZn/free-chat-support-icon-1721-thumb-1.png">
 </picture>       
           
  <a href="https://ibb.co/5KH6y4t"><img src="https://i.ibb.co/hYzyj9h/Untitled-3.jpg" alt="Untitled-3" border="0"></a>         
