@@ -25,8 +25,5 @@
         <h1>  
           
           
-<a href="https://ibb.co/5583Dm2"><img src="https://i.ibb.co/fCpWRfQ/1-5.png" alt="1-5" border="0"></a>
-<a href="https://ibb.co/cbYpWnj"><img src="https://i.ibb.co/dbm3NYR/2-3.png" alt="2-3" border="0"></a>
-<a href="https://ibb.co/hVTkBdm"><img src="https://i.ibb.co/JHSNvps/3-2.png" alt="3-2" border="0"></a>
-<a href="https://ibb.co/2k8X9fB"><img src="https://i.ibb.co/x7mVkRQ/4-2.png" alt="4-2" border="0"></a>
+
 <a href="https://ibb.co/Krh6NpX"><img src="https://i.ibb.co/fxFM8z2/3554.jpg" alt="3554" border="0"></a>
