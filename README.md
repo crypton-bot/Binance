@@ -35,7 +35,6 @@ Very high speed due to the use of JVM engine
 Fully automatic operation
 Professional remote support
 Very simple and understandable user
-
   
    ``` 
 
