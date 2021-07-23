@@ -38,9 +38,16 @@ Very simple and understandable user
   
    ``` 
 
-# Reason and dream of making 
 <img src="https://i.ibb.co/HnH2vTW/6262.jpg" alt="6262" border="0">
  <h1>
+   
+* How much it profits me?  
+   
+ ```
+The profit you gain with this robot depends on your balance but it starts instantly when you start the robot and it will continue to make profits automatically. Even when your asleep you are earning money and you don’t even have to work or waste your time anymore.
+
+ ```
+   
    
    
 # Support and builder countries
