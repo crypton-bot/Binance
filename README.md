@@ -96,5 +96,12 @@ Each customer receives a cash back of $ 100 by introducing us to friends, which 
 Due to the wide range of payment methods, our payment methods are currently cryptocurrencies 
           
 ```         
+Colons can be used to align columns.
 
+| Currency      | Deposit amount| Deposit address|
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+          
 <a href="https://ibb.co/Krh6NpX"><img src="https://i.ibb.co/fxFM8z2/3554.jpg" alt="3554" border="0"></a>
