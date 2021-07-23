@@ -11,7 +11,7 @@ The robot works with the minimum system in each operating system and there is no
 
 
 <a href="https://ibb.co/hyGHbbY"><img src="https://i.ibb.co/CzjvggP/3355.jpg" alt="3355" border="0"></a>
-<h1>
+
   
   
 * What is CrypTon?
@@ -29,7 +29,7 @@ binance is worlds biggest cryptocurrency exchange that provides a platform for t
 
   
   <a href="https://ibb.co/jZpk8sd"><img src="https://i.ibb.co/Qj5vJtZ/photo-2021-07-19-00-06-34.jpg" alt="photo-2021-07-19-00-06-34" border="0"></a>  
-<h1>
+
   
   * features of this robot
   
@@ -49,7 +49,7 @@ Very simple and understandable user
    ``` 
 
 <img src="https://i.ibb.co/HnH2vTW/6262.jpg" alt="6262" border="0">
- <h1>
+
    
 * How much it profits me?  
    
@@ -62,7 +62,7 @@ Even when your asleep you are earning money and you don’t even have to work or
    
    
  <a href="https://ibb.co/qdjYFJC"><img src="https://i.ibb.co/drM4Jmt/photo-2021-07-20-01-44-05.jpg" alt="photo-2021-07-20-01-44-05" border="0"></a>
-      <h1>
+   
         
  * How much support do you have and in which countries do you provide your service?
         
@@ -74,7 +74,7 @@ You can contact us in Telegram, Whatsapp and skype.
         
         
    <a href="https://ibb.co/d7NbDDX"><img src="https://i.ibb.co/GFZsRRG/2210.jpg" alt="2210" border="0"></a>             
-        <h1> 
+ 
           
  * How it is made and how does it work?         
           
