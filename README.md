@@ -97,6 +97,34 @@ Smart Martingale: in this mode a fake deal is done. After checking the results a
  ```         
         
  <a href="https://ibb.co/5KH6y4t"><img src="https://i.ibb.co/hYzyj9h/Untitled-3.jpg" alt="Untitled-3" border="0"></a>
+ 
+          
+* What kind of trades does it do and What currencies does it trade with?  
+          
+```          
+Almost 20 different trading methods are now supported including Spot, Future, Margin and option all with their specific limits, stop losses and take profits.
+All currencies are supported. You simply should choose 2 different currencies to analyze and scalp and this robot will work on those and do the rest.
+```
+          
+          
+* Does it have access to my account?
+          
+```          
+The robot is controlled by Binance API access from outside and access is granted as far as you or Binance allow.
+Due the Binance policies robot does not have the right to withdraw or deposit
+The codes are perfectly optimized to work in the highest quality
+9. It is very easy to use this robot and you will be fully trained to use it.
+Installation is done by our experts if asked.
+The robot works with the minimum system in each operating system and there is no need to worry about being slow
+ ```       
+   
+* How long can I use it?
+          
+``` 
+ This robot is for one user and one system. Subscriptions and support are 1 years.         
+```         
+          
+          
           
  * How to buy and use it? 
           
@@ -107,12 +135,7 @@ Due to the wide range of payment methods, our payment methods are currently cryp
           
 ```  
           
-
-* How long can I use it?
-          
-``` 
- This robot is for one user and one system. Subscriptions and support are 1 years.         
-```   
+ 
           
            
 * To buy, deposit a certain amount to an address and send the transaction address to support.
