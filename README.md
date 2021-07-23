@@ -44,7 +44,9 @@ Very simple and understandable user
 * How much it profits me?  
    
  ```
-The profit you gain with this robot depends on your balance but it starts instantly when you start the robot and it will continue to make profits automatically. Even when your asleep you are earning money and you don’t even have to work or waste your time anymore.
+The profit you gain with this robot depends on your balance but it starts instantly when
+you start the robot and it will continue to make profits automatically. 
+Even when your asleep you are earning money and you don’t even have to work or waste your time anymore.
 
  ```
    
