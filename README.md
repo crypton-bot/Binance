@@ -115,5 +115,10 @@ Due to the wide range of payment methods, our payment methods are currently cryp
 | bnb       | 200$ |0x20F17C6d727747c525f11c85A3Ce9FF9999a49d5 |
 | bnb       | 200$ |0x20F17C6d727747c525f11c85A3Ce9FF9999a49d5 |
 | bnb       | 200$ |0x20F17C6d727747c525f11c85A3Ce9FF9999a49d5 |
+
+* How long can I use it?
           
+``` 
+ This robot is for one user and one system. Subscriptions and support are 1 years.         
+```          
 <a href="https://ibb.co/Krh6NpX"><img src="https://i.ibb.co/fxFM8z2/3554.jpg" alt="3554" border="0"></a>
