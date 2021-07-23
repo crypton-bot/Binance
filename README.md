@@ -95,8 +95,10 @@ The annual usage fee is $ 200 and in case of dissatisfaction, the money will be 
 Each customer receives a cash back of $ 100 by introducing us to friends, which is available the same day.
 Due to the wide range of payment methods, our payment methods are currently cryptocurrencies 
           
-```         
-To buy, deposit a certain amount to an address and send the transaction address to support.
+```  
+          
+          
+* To buy, deposit a certain amount to an address and send the transaction address to support.
 
 | Currency      | Deposit amount| Deposit address|
 | ------------- |:-------------:| -----:|
