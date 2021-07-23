@@ -20,7 +20,9 @@ binance is worlds biggest cryptocurrency exchange that provides a platform for t
   
   <a href="https://ibb.co/jZpk8sd"><img src="https://i.ibb.co/Qj5vJtZ/photo-2021-07-19-00-06-34.jpg" alt="photo-2021-07-19-00-06-34" border="0"></a>  
 <h1>
+  
   * features of this robot
+  
    ``` 
 Secure connection to the exchange by API
 Use of AI technology 
