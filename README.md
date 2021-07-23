@@ -96,7 +96,7 @@ Each customer receives a cash back of $ 100 by introducing us to friends, which 
 Due to the wide range of payment methods, our payment methods are currently cryptocurrencies 
           
 ```         
-Colons can be used to align columns.
+To buy, deposit a certain amount to an address and send the transaction address to support.
 
 | Currency      | Deposit amount| Deposit address|
 | ------------- |:-------------:| -----:|
