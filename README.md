@@ -52,9 +52,16 @@ Even when your asleep you are earning money and you don’t even have to work or
    
    
    
-# Support and builder countries
  <a href="https://ibb.co/qdjYFJC"><img src="https://i.ibb.co/drM4Jmt/photo-2021-07-20-01-44-05.jpg" alt="photo-2021-07-20-01-44-05" border="0"></a>
       <h1>
+        
+ * How much support do you have and in which countries do you provide your service?
+        
+        ```
+        Crypton is a global project and can be used in every country. Support is mostly in English but we can connect you to support service in your language if available.
+        You can contact us in Telegram, Whatsapp and skype.
+
+        ```
         
         
 # Some technical explanations 
