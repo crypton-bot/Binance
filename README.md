@@ -100,8 +100,8 @@ Colons can be used to align columns.
 
 | Currency      | Deposit amount| Deposit address|
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| BitCoin       | 200$ | $1600 |
+| Etherum       | 200$ |   $12 |
+| Usdt          | 200$ |    $1 |
           
 <a href="https://ibb.co/Krh6NpX"><img src="https://i.ibb.co/fxFM8z2/3554.jpg" alt="3554" border="0"></a>
