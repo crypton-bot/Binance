@@ -18,11 +18,25 @@ binance is worlds biggest cryptocurrency exchange that provides a platform for t
 
 
   
-# Technologies used 
   <a href="https://ibb.co/jZpk8sd"><img src="https://i.ibb.co/Qj5vJtZ/photo-2021-07-19-00-06-34.jpg" alt="photo-2021-07-19-00-06-34" border="0"></a>  
 <h1>
+  * features of this robot
+   ``` 
+Secure connection to the exchange by API
+Use of AI technology 
+Use of MQL servers
+Use of exclusive CrypTon API
+Use of smart Capital Raising and Investor Protection systems
+Use of multiple advanced programming languages and new technologies
+Available in every OS including Windows, Mac, Linux
+Very high speed due to the use of JVM engine
+Fully automatic operation
+Professional remote support
+Very simple and understandable user
+
   
-  
+   ``` 
+
 # Reason and dream of making 
 <img src="https://i.ibb.co/HnH2vTW/6262.jpg" alt="6262" border="0">
  <h1>
