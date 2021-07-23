@@ -70,12 +70,18 @@ You can contact us in Telegram, Whatsapp and skype.
           
  ```
  CrypTon  main core uses 6 methods to trade:
+          
 Fast Trading mode: in this mode robot focuses on trading as fast as possible and it doesn’t use any sort of analytic or technical advice.
 Trading with high speed means robot is set to do trades faster than anyone else by recognizing orders in high or low prices, different volumes or the number of orders.
+          
 AI mode: By analyzing previous patterns and learning from them, this robot becomes more experienced and it readjusts itself to do trades smarter and more accurate.
+          
 Stepwise mode: in this mode our robot does stepwise sell and buy actions (E.X you want to buy or sell on cryptocurrency at the best price. This needs to be done very accurate and appropriate)
+          
 Profit save mode: in this mode it checks the prices to figure out when to save your profit and which positions to take to increase your balance.
+          
 Algorithmic mode: In this case, considering market status, robot chooses one of the MQL algotrading methods and trades with an algorithm which is more likely to be profitable.
+          
 Smart Martingale: in this mode a fake deal is done. After checking the results and re-evaluating them robot starts to trade again but with different prices or volumes to earn you more profits and reduce your loss.
          
  ```         
