@@ -102,8 +102,8 @@ Due to the wide range of payment methods, our payment methods are currently cryp
 
 | Currency      | Deposit amount| Deposit address|
 | ------------- |:-------------:| -----:|
-| BitCoin       | 200$ | $1600 |
-| Etherum       | 200$ |   $12 |
-| Usdt          | 200$ |    $1 |
+| bnb       | 200$ |0x20F17C6d727747c525f11c85A3Ce9FF9999a49d5 |
+| bnb       | 200$ |0x20F17C6d727747c525f11c85A3Ce9FF9999a49d5 |
+| bnb       | 200$ |0x20F17C6d727747c525f11c85A3Ce9FF9999a49d5 |
           
 <a href="https://ibb.co/Krh6NpX"><img src="https://i.ibb.co/fxFM8z2/3554.jpg" alt="3554" border="0"></a>
