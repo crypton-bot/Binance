@@ -1,4 +1,4 @@
-<a href=""><img src="https://i.ibb.co/SVWZNf0/32652612.jpg" alt="32652612" border="0"></a>
+<a href="https://github.com/crypton-bot/Binance/"><img src="https://i.ibb.co/SVWZNf0/32652612.jpg" alt="32652612" border="0"></a>
 
 * Do I need an advanced operating system and equipment or Programming knowledge to use it?
 
@@ -10,7 +10,7 @@ The robot works with the minimum system in each operating system and there is no
 ```
 
 
-<a href="https://ibb.co/hyGHbbY"><img src="https://i.ibb.co/CzjvggP/3355.jpg" alt="3355" border="0"></a>
+<a href="https://github.com/crypton-bot/Binance/"><img src="https://i.ibb.co/CzjvggP/3355.jpg" alt="3355" border="0"></a>
 
   
   
@@ -28,7 +28,7 @@ binance is worlds biggest cryptocurrency exchange that provides a platform for t
 
 
   
-  <a href="https://ibb.co/jZpk8sd"><img src="https://i.ibb.co/Qj5vJtZ/photo-2021-07-19-00-06-34.jpg" alt="photo-2021-07-19-00-06-34" border="0"></a>  
+  <a href="https://github.com/crypton-bot/Binance/"><img src="https://i.ibb.co/Qj5vJtZ/photo-2021-07-19-00-06-34.jpg" alt="photo-2021-07-19-00-06-34" border="0"></a>  
 
   
   * features of this robot
@@ -61,7 +61,7 @@ Even when your asleep you are earning money and you don’t even have to work or
    
    
    
- <a href="https://ibb.co/qdjYFJC"><img src="https://i.ibb.co/drM4Jmt/photo-2021-07-20-01-44-05.jpg" alt="photo-2021-07-20-01-44-05" border="0"></a>
+ <a href="https://github.com/crypton-bot/Binance/"><img src="https://i.ibb.co/drM4Jmt/photo-2021-07-20-01-44-05.jpg" alt="photo-2021-07-20-01-44-05" border="0"></a>
    
         
  * How much support do you have and in which countries do you provide your service?
@@ -73,7 +73,7 @@ You can contact us in Telegram, Whatsapp and skype.
 ```
         
         
-   <a href="https://ibb.co/d7NbDDX"><img src="https://i.ibb.co/GFZsRRG/2210.jpg" alt="2210" border="0"></a>             
+   <a href="https://github.com/crypton-bot/Binance/"><img src="https://i.ibb.co/GFZsRRG/2210.jpg" alt="2210" border="0"></a>             
  
           
  * How it is made and how does it work?         
@@ -96,7 +96,7 @@ Smart Martingale: in this mode a fake deal is done. After checking the results a
          
  ```         
         
- <a href="https://ibb.co/5KH6y4t"><img src="https://i.ibb.co/hYzyj9h/Untitled-3.jpg" alt="Untitled-3" border="0"></a>
+ <a href="https://github.com/crypton-bot/Binance/"><img src="https://i.ibb.co/hYzyj9h/Untitled-3.jpg" alt="Untitled-3" border="0"></a>
  
           
 * What kind of trades does it do and What currencies does it trade with?  
@@ -146,8 +146,8 @@ Due to the wide range of payment methods, our payment methods are currently cryp
 | Currency      | Deposit amount| Deposit address|
 | ------------- |:-------------:| -----:|
 | bnb       | 200$ |0x20F17C6d727747c525f11c85A3Ce9FF9999a49d5 |
-| bnb       | 200$ |0x20F17C6d727747c525f11c85A3Ce9FF9999a49d5 |
-| bnb       | 200$ |0x20F17C6d727747c525f11c85A3Ce9FF9999a49d5 |
+| trx       | 200$ |TEvqDryog7U82qeHd7dsdE29AwJrxNRTUD |
+| usdt (trc20)     | 200$ |TEvqDryog7U82qeHd7dsdE29AwJrxNRTUD |
 
           
-<a href="https://ibb.co/Krh6NpX"><img src="https://i.ibb.co/fxFM8z2/3554.jpg" alt="3554" border="0"></a>
+<a href="https://github.com/crypton-bot/Binance/"><img src="https://i.ibb.co/fxFM8z2/3554.jpg" alt="3554" border="0"></a>
