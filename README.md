@@ -1,5 +1,15 @@
 <a href="https://ibb.co/tYk1BLc"><img src="https://i.ibb.co/SVWZNf0/32652612.jpg" alt="32652612" border="0"></a>
 
+* Do I need an advanced operating system and equipment or Programming knowledge to use it?
+
+
+```
+It is very easy to use this robot and you will be fully trained to use it.
+Installation is done by our experts if asked.
+The robot works with the minimum system in each operating system and there is no need to worry about being slow
+```
+
+
 <a href="https://ibb.co/hyGHbbY"><img src="https://i.ibb.co/CzjvggP/3355.jpg" alt="3355" border="0"></a>
 <h1>
   
