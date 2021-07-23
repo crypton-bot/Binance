@@ -47,7 +47,6 @@ Very simple and understandable user
 The profit you gain with this robot depends on your balance but it starts instantly when
 you start the robot and it will continue to make profits automatically. 
 Even when your asleep you are earning money and you don’t even have to work or waste your time anymore.
-
  ```
    
    
@@ -57,11 +56,11 @@ Even when your asleep you are earning money and you don’t even have to work or
         
  * How much support do you have and in which countries do you provide your service?
         
-        ```
-        Crypton is a global project and can be used in every country. Support is mostly in English but we can connect you to support service in your language if available.
-        You can contact us in Telegram, Whatsapp and skype.
+```
+Crypton is a global project and can be used in every country. Support is mostly in English but we can connect you to support service in your language if available.
+You can contact us in Telegram, Whatsapp and skype.
 
-        ```
+```
         
         
 # Some technical explanations 
