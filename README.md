@@ -2,15 +2,19 @@
 
 <a href="https://ibb.co/hyGHbbY"><img src="https://i.ibb.co/CzjvggP/3355.jpg" alt="3355" border="0"></a>
 <h1>
+  
+---
+  
 What is CrypTon?
   
-<Crypton is an advanced super intelligent robot which has been written by worlds biggest programmers to be used in Binance* exchange
+Crypton is an advanced super intelligent robot which has been written by worlds biggest programmers to be used in Binance* exchange
 Main purpose of this robot is to automatically profit from cryptocurrencies
 From the moment its installed on server or Personal computer* it starts working
 This robot can trade automatically and also it can be used to get signals 
 This robot is familiar with all of trading methods. By the passage of time it can learn, become more intelligent, professional and Invincible
 *  binance is worlds biggest cryptocurrency exchange that provides a platform for trading various cryptocurrencies
->
+---
+
 
   
 # Technologies used 
