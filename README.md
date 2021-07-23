@@ -102,8 +102,11 @@ Smart Martingale: in this mode a fake deal is done. After checking the results a
 * What kind of trades does it do and What currencies does it trade with?  
           
 ```          
-Almost 20 different trading methods are now supported including Spot, Future, Margin and option all with their specific limits, stop losses and take profits.
-All currencies are supported. You simply should choose 2 different currencies to analyze and scalp and this robot will work on those and do the rest.
+Almost 20 different trading methods are now supported including Spot, Future, Margin and option 
+all with their specific limits, stop losses and take profits.
+All currencies are supported.
+You simply should choose 2 different currencies to analyze and scalp 
+and this robot will work on those and do the rest.
 ```
           
           
