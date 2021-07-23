@@ -1,4 +1,4 @@
-<a href="https://ibb.co/tYk1BLc"><img src="https://i.ibb.co/SVWZNf0/32652612.jpg" alt="32652612" border="0"></a>
+<a href=""><img src="https://i.ibb.co/SVWZNf0/32652612.jpg" alt="32652612" border="0"></a>
 
 * Do I need an advanced operating system and equipment or Programming knowledge to use it?
 
