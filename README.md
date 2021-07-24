@@ -1,5 +1,4 @@
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/ZdJgd0P/65.png" alt="65"alt="32652612"></a>
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/G26YrQS/telegram.png" alt="telegram" border="0"></a>
 <a href="https://github.com/crypton-bot/Binance/"><img src="https://i.ibb.co/SVWZNf0/32652612.jpg" alt="32652612" border="0"></a>
 
 * Do I need an advanced operating system and equipment or Programming knowledge to use it?
