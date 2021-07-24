@@ -142,13 +142,17 @@ The annual usage fee is $ 200 and in case of dissatisfaction, the money will be 
 Each customer receives a cash back of $ 100 by introducing us to friends, which is available the same day.
 Due to the wide range of payment methods, our payment methods are currently cryptocurrencies 
           
-```  
-          
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/JQPHMxH/gmail-ios.png" alt="gmail-ios" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/TWSwbTP/skype.png" alt="skype" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/Fbbcd9V/telegram.png" alt="telegram" border="0"></a>
+```
+
+
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Fbbcd9V/telegram.png" alt="telegram" border="0"></a>  
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/FmQ2PCh/whatsapp.png" alt="whatsapp" border="0"></a> 
-          
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/TWSwbTP/skype.png" alt="skype" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/JQPHMxH/gmail-ios.png" alt="gmail-ios" border="0"></a>
+  
+  
+  
            
 * To buy, deposit a certain amount to an address and send the transaction address to support.
 
