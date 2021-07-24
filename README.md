@@ -145,9 +145,11 @@ Due to the wide range of payment methods, our payment methods are currently cryp
 ```
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/FmQ2PCh/whatsapp.png" alt="whatsapp" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/Fbbcd9V/telegram.png" alt="telegram" border="0"></a>  
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/JQPHMxH/gmail-ios.png" alt="gmail-ios" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Fbbcd9V/telegram.png" alt="telegram" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/TWSwbTP/skype.png" alt="skype" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/JQPHMxH/gmail-ios.png" alt="gmail-ios" border="0"></a>
+
+
    
            
 * To buy, deposit a certain amount to an address and send the transaction address to support.
