@@ -1,4 +1,3 @@
-<a href="https://ibb.co/dcPz0Kn"><img src="https://i.ibb.co/yR6bnsL/35.png" alt="35" border="0"></a>
 
 
 <a href="https://github.com/crypton-bot/Binance/"><img src="https://i.ibb.co/SVWZNf0/32652612.jpg" alt="32652612" border="0"></a>
